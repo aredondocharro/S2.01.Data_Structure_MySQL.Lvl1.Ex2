@@ -109,9 +109,9 @@ Each employee record includes:
 ### 🛠️ **Connection Parameters**
 
 - **Host:** `localhost`
-- **Port:** `3308`
-- **User:** `root`
-- **Password:** `root`
+- **Port:** `3306` (default MySQL port)
+- **User:** `your_user`
+- **Password:** `your_password`
 - **Database name:** `pizzeria`
 
 > 💡 Use DBeaver or any preferred SQL client to explore, manage, and query the database structure.
